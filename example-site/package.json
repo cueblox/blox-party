@@ -1,0 +1,15 @@
+{
+  "name": "example-site",
+  "version": "0.0.1",
+  "dependencies": {
+    "@devrel-blox/profile": "*",
+    "gatsby": "^3.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  }
+}
